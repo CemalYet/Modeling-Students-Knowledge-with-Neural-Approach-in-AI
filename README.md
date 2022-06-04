@@ -43,3 +43,5 @@ To use a different dataset, you must be sure that you have the following columns
 - **skill_id**: The identifier of the skill of the question.
 - **correct**: The answer to the question [0, 1].
 
+## Explanation
+Used DKT model is taken from [lccasagrande](https://github.com/lccasagrande/Deep-Knowledge-Tracing). 
